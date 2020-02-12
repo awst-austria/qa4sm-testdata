@@ -1,0 +1,1 @@
+../ESA_CCI_SM_C_V04_5/grid.nc
