@@ -10,4 +10,4 @@ Reference data sets (GLDAS, ERA, ISMN, ...) are processed in the period 2017-01 
 Satellite dataset (CCI, SMOS, C3S, SMAP, ASCAT, ...) are for the available period at the time
 the testdata was generated.
 
-More comprehensive information about the datasets is [available here](https://qa4sm.eodc.eu/datasets/).
+More comprehensive information about the datasets is [available here](https://qa4sm.eu/datasets/).
