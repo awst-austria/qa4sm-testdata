@@ -10,4 +10,7 @@ Reference data sets (GLDAS, ERA, ISMN, ...) are processed in the period 2017-01 
 Satellite dataset (CCI, SMOS, C3S, SMAP, ASCAT, ...) are for the available period at the time
 the testdata was generated.
 
+CGLS SSM and SWI data are only available for Europe at the moment. In order to use existing test data together with CGLS, synthetic test data for
+CGLS SSM and SWI in Hawaii were generated.
+
 More comprehensive information about the datasets is [available here](https://qa4sm.eu/datasets/).
