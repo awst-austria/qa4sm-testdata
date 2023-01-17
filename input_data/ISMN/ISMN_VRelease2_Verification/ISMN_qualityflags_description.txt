@@ -1,0 +1,1 @@
+ISMN_TESTDATA_HAWAII/ISMN_qualityflags_description.txt
