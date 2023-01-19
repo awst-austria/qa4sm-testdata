@@ -1,0 +1,7 @@
+frm_class;frm_snr;frm_nobs;depth_from;depth_to;network;station;instrument
+undeducible;8.59662;2360;0.0;0.17;COSMOS;Silver_Sword;Cosmic-ray-Probe
+not representative;-0.95742875;3128;0.0508;0.0508;SCAN;Silver_Sword;Hydraprobe-Analog-(2.5-Volt)
+undeducible;-15.512657;1344;0.0;0.1;COSMOS;Island_Dairy;Cosmic-ray-Probe
+not representative;-4.9484425;4290;0.0508;0.0508;SCAN;Kemole_Gulch;Hydraprobe-Analog-(2.5-Volt)
+undeducible;-13.348321;3492;0.0508;0.0508;SCAN;Mana_House;Hydraprobe-Analog-(2.5-Volt)
+undeducible;-22.439869;2667;0.0508;0.0508;SCAN;Pua_Akala;Hydraprobe-Analog-(2.5-Volt)
