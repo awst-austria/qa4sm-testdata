@@ -1,0 +1,1 @@
+some test content of a not netcdf file

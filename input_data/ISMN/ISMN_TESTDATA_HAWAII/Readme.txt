@@ -82,3 +82,9 @@ Network Information
 		Soil Moisture Depths: 0.02 - 0.02 m , 0.05 - 0.05 m , 0.10 - 0.10 m , 0.15 - 0.15 m , 0.20 - 0.20 m , 0.25 - 0.25 m , 0.27 - 0.27 m , 0.30 - 0.30 m , 0.38 - 0.38 m , 0.40 - 0.40 m , 0.45 - 0.45 m , 0.50 - 0.50 m , 0.60 - 0.60 m , 0.66 - 0.66 m , 0.68 - 0.68 m , 0.76 - 0.76 m , 0.83 - 0.83 m , 0.88 - 0.88 m , 1.01 - 1.01 m , 1.09 - 1.09 m , 1.14 - 1.14 m , 1.29 - 1.29 m , 1.39 - 1.39 m , 1.52 - 1.52 m , 2.03 - 2.03 m , 
 		Soil Moisture Sensors: Hydraprobe Analog (5.0 Volt), n.s., Hydraprobe Digital Sdi-12 (2.5 Volt), Hydraprobe Digital Sdi-12 Thermistor (linear), Hydraprobe Analog (2.5 Volt), 
 
+
+FRM Classification
+
+    frm_classification.csv
+        Contains (synthetic) frm classifications that are assigned to the testdata stations when using a custom metadata reader with the ISMN data.
+
