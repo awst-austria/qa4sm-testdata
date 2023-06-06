@@ -14,3 +14,11 @@ CGLS SSM and SWI data are only available for Europe at the moment. In order to u
 CGLS SSM and SWI in Hawaii were generated.
 
 More comprehensive information about the datasets is [available here](https://qa4sm.eu/datasets/).
+
+## ISMN Testdata
+
+Note that we use the same test files for all ISMN versions. Files are symlinked from `ISMN_TESTDATA_HAWAII` into the respective version directories.
+
+## ESA CCI SM Testdata
+
+Note that neither the ACTIVE nor the PASSIVE CCI SM datasets are available for Hawaii. We therefore use copies of the `COMBINED` data for testing.
