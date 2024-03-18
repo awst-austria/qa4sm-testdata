@@ -1,0 +1,11 @@
+Network name,Station name,Instrument,Variable,Latitude [deg],Longitude [deg],Depth from [cm],Depth to [cm],Period from,Period to,FRM Class
+COSMOS,SilverSword,Cosmic-ray-Probe,soil_moisture,19.765,-155.4234,0.0,0.17,2017-01-01 00:00:00,2018-12-31 23:00:00,representative
+SCAN,IslandDairy,Hydraprobe-Analog-(2.5-Volt),soil_moisture,20.0,-155.283,0.0508,0.0508,2017-01-01 00:00:00,2018-11-29 09:00:00,representative
+SCAN,Kainaliu,Hydraprobe-Analog-(2.5-Volt)-B,soil_moisture,19.533,-155.933,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,not representative
+SCAN,Kainaliu,Hydraprobe-Analog-(2.5-Volt)-A,soil_moisture,19.533,-155.933,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,representative
+SCAN,KemoleGulch,n.s.,soil_moisture,19.917,-155.583,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,not representative
+SCAN,Kukuihaele,Hydraprobe-Analog-(2.5-Volt),soil_moisture,20.1,-155.517,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,undeducible
+SCAN,ManaHouse,n.s.,soil_moisture,19.95,-155.533,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,representative
+SCAN,PuaAkala,Hydraprobe-Analog-(2.5-Volt),soil_moisture,19.8,-155.333,0.0508,0.0508,2017-01-01 00:00:00,2018-11-14 22:00:00,very representative
+SCAN,SilverSword,Hydraprobe-Analog-(2.5-Volt),soil_moisture,19.767,-155.417,0.0508,0.0508,2018-01-24 10:00:00,2018-12-31 23:00:00,not representative
+SCAN,WaimeaPlain,Hydraprobe-Analog-(2.5-Volt),soil_moisture,20.017,-155.6,0.0508,0.0508,2017-01-01 00:00:00,2018-12-31 23:00:00,undeducible
